@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently improving my **NodeJS Skills**
 
-- 👨‍💻 All of my projects are available at [youtube.com](youtube.com)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)
 
 - 📝 I regularly write articles on [blog.devtalan.com](blog.devtalan.com)
 
