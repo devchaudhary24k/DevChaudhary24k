@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/@devchaudhary24k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@devchaudhary24k" height="30" width="40" /></a>
 <a href="https://twitter.com/@devchaudhary24k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devchaudhary24k" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:18815882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18815882" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18815882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18815882" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_talan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_talan" height="30" width="40" /></a>
 <a href="https://dribbble.com/devchaudhary24k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devchaudhary24k" height="30" width="40" /></a>
 </p>
