@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently improving my **NodeJS Skills**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/](https://www.youtube.com/)
+- 👨‍💻 All of my projects are available at [https://www.devtalan.com/](https://www.devtalan.com/)
 
-- 📝 I regularly write articles on [blog.devtalan.com](blog.devtalan.com)
+- 📝 I regularly write articles on [https://blog.devtalan.com/](https://blog.devtalan.com/)
 
 - 💬 Ask me about **Back End Development**
 
 - 📫 How to reach me **chaudhary.dev.talan@gmail.com**
 
-- 📄 Know about my experiences [resume.devtalan.com](resume.devtalan.com)
+- 📄 Know about my experiences [https://resume.devtalan.com/](https://resume.devtalan.com/)
 
 - ⚡ Fun fact **With being a computer nerd, I am also a Gamer.**
 
