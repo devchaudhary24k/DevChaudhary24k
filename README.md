@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@devchaudhary24k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@devchaudhary24k" height="30" width="40" /></a>
-<a href="https://twitter.com/@devchaudhary24k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devchaudhary24k" height="30" width="40" /></a>
+<a href="https://twitter.com/@dev_talan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dev_talan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev-talan-ab8289220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-talan-ab8289220" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18815882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18815882" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_talan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_talan" height="30" width="40" /></a>
