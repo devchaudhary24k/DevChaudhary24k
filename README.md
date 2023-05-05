@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Back End Development**
 
-- 📫 How to reach me **chaudhary.dev.talan@gmail.com**
+- 📫 How to reach me **contact@devtalan.com**
 
 - 📄 Know about my experiences [https://resume.devtalan.com/](https://resume.devtalan.com/)
 
