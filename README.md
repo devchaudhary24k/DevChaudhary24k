@@ -1,7 +1,7 @@
 <div style="width:100vw; display:flex; justify-content:center; gap:4px; overflow:hidden;">
   <img src="https://images.pexels.com/photos/34336660/pexels-photo-34336660.jpeg" style="width:33%; height:auto; object-fit:cover;" />
   <img src="https://images.pexels.com/photos/34496646/pexels-photo-34496646.jpeg" style="width:33%; height:auto; object-fit:cover;" />
-  <img src="https://images.pexels.com/photos/34200695/pexels-photo-34200695.jpeg" style="width:33%; height:auto; object-fit:cover;" />
+  <img src="https://images.pexels.com/photos/34200695/pexels-photo-34200695.jpeg?cs=srgb&dl=pexels-pic-matti-450440252-34200695.jpg&fm=jpg&w=1920&h=2880" style="width:33%; height:auto; object-fit:cover;" />
 </div>
 
 ## About Me
